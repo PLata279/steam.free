@@ -63,7 +63,8 @@ footer {
 }
 
 .joke, 
-.advertising {
+.advertising,
+.advertising2 {
     margin: 20px 0; /* Отступ снизу и сверху */
     padding: 15px;
     border: 2px solid #007BFF; /* Рамка */
